@@ -1,5 +1,5 @@
 # :wave: Hello world!!!
-I am a frontend enthusiast who have 6+ year experience in web development and game development.<br>Currently working @entri.<br>
+I am a frontend enthusiast who have 7+ year experience in web development and game development.<br>Currently working @entri.<br>
 
 
 ## :electric_plug: Connect with me on
